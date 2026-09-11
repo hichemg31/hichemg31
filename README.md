@@ -1,3 +1,5 @@
+👋 Hey, I'm Hichem,
+
 💻 Computer Science Engineer specializing in Computer Systems Engineering.
 
 🚀 Passionate about space technology, embedded systems, drones, and industrial automation.
